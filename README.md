@@ -1,26 +1,57 @@
-# Hello World 👋
+<h1 align='center'> Hello World 👋 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CheapNightbot&color=blueviolet&style=flat-square)
+<p align='center'>
+ <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' />
+<!-- <img src='' alt='' /> -->
+</p>
 
-Hi, me Cheap Nightbot, a stumid self-taught programmer. (づ￣ ³￣)づ
+<p align='center'> Hi, me Cheap Nightbot, a stumid self-taught programmer. (づ￣ ³￣)づ </p>
 
-## 🔧 Technologies & Tools
+<details>
+ <summary>📈 Activity Graph</summary>
+ <br>
+ 
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)
+ 
+</details>
+<details>
+ <summary>📊 Top Languages</summary>
+<br>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
+ 
+</details>
+
+## 🔧 Technologies & Tools // Skills
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20🔰-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin%20🔰-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Render](https://img.shields.io/badge/Render%20🔰-46E3B7?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20🔰-000000?style=flat&logo=vercel&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Still Learning](https://img.shields.io/badge/🔰-still%20learning-blue)
+
+## 🖥 My Workspace
+
+![OS: Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CPU: Intel Pentium(R) Dual-Core](https://img.shields.io/badge/Intel%20Pentium(R)%20Dual–Core%20E5700-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM: 4GB](https://img.shields.io/badge/RAM-4GB-%230071C5?&style=for-the-badge&logoColor=white)
+![HDD: 40GB](https://img.shields.io/badge/HDD-40GB-%230071C5?&style=for-the-badge&logoColor=white)
 
 ## 🌱 I'm Currently Learning
 
