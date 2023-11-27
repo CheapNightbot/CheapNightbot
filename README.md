@@ -57,10 +57,10 @@ Hi, me Cheap Nightbot, a stumid self-taught programmer. (づ￣ ³￣)づ
 
 ## 🚀 Future Goals
 
-- - [ ] Recreate the "notTaki" website and the "Yutify" project.
-- - [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
-- - [ ] Create a GitHub organization for developing VST plugins using C++.
-- - [ ] Learn to compile and build custom ROMs.
+- [ ] Recreate the "notTaki" website and the "Yutify" project.
+- [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
+- [ ] Create a GitHub organization for developing VST plugins using C++.
+- [ ] Learn to compile and build custom ROMs.
  
 ## 😄 Fun Facts
 
