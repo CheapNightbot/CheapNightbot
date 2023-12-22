@@ -48,7 +48,7 @@
 
 ## 🖥 My Workspace
 
-![OS: Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![OS: EndeavourOS](https://img.shields.io/badge/EndeavourOS-5865F2?style=for-the-badge&logoColor=white)
 ![CPU: Intel Pentium(R) Dual-Core](https://img.shields.io/badge/Intel%20Pentium(R)%20Dual–Core%20E5700-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RAM: 4GB](https://img.shields.io/badge/RAM-4GB-%230071C5?&style=for-the-badge&logoColor=white)
 ![HDD: 40GB](https://img.shields.io/badge/HDD-40GB-%230071C5?&style=for-the-badge&logoColor=white)
