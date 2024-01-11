@@ -8,17 +8,26 @@
 <p align='center'> Hi, me Cheap Nightbot, a stumid self-taught programmer. (づ￣ ³￣)づ </p>
 
 <details>
+ <summary>📊 Stats</summary>
+<br>
+ 
+ |![CheapNightbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)|
+ | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+</details>
+
+<details>
  <summary>📈 Activity Graph</summary>
  <br>
  
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)
  
 </details>
+
 <details>
- <summary>📊 Top Languages</summary>
-<br>
+ <summary>📌 Top // Favorite</summary>
+ <br/>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
+ [![Skills // Tools](https://skillicons.dev/icons?i=python,replit)](#)
  
 </details>
 
