@@ -27,15 +27,18 @@
  <summary>📌 Top // Favorite</summary>
  <br/>
  
- [![Skills // Tools](https://skillicons.dev/icons?i=python,replit)](#)
+ [![Skills // Tools](https://skillicons.dev/icons?i=bash,linux,python,replit,vim)](#)
  
 </details>
 
 ## 🔧 Technologies & Tools // Skills
 
+> Alphabetically
+
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20🔰-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
@@ -50,26 +53,24 @@
 ![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Render](https://img.shields.io/badge/Render%20🔰-46E3B7?style=flat&logo=render&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel%20🔰-000000?style=flat&logo=vercel&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Still Learning](https://img.shields.io/badge/🔰-still%20learning-blue)
 
 ## 🖥 My Workspace
 
-![OS: EndeavourOS](https://img.shields.io/badge/EndeavourOS-5865F2?style=for-the-badge&logoColor=white)
+![OS: Windows 10](https://img.shields.io/badge/Windows_10_+_WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CPU: Intel Pentium(R) Dual-Core](https://img.shields.io/badge/Intel%20Pentium(R)%20Dual–Core%20E5700-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RAM: 4GB](https://img.shields.io/badge/RAM-4GB-%230071C5?&style=for-the-badge&logoColor=white)
-![HDD: 40GB](https://img.shields.io/badge/HDD-40GB-%230071C5?&style=for-the-badge&logoColor=white)
+![HDD: 500GB](https://img.shields.io/badge/HDD-500GB-%230071C5?&style=for-the-badge&logoColor=white)
 
 ## 🌱 I'm Currently Learning
 
 - [ ] C++
 - [ ] Kotlin
-- [ ] SQL
-- [ ] PHP (didn't even start yet)
-- [ ] Android Studio (ma pc == potato == lag)
-- [ ] Blender (not actively)
 
 ## 🚀 My Projects
 
@@ -97,12 +98,10 @@
 
 - [ ] Recreate the "notTaki" website and the "Yutify" project.
 - [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
-- [ ] Create a GitHub organization for developing VST plugins using C++.
-- [ ] Learn to compile and build custom ROMs.
+- [x] ~~Create a GitHub organization for developing VST plugins using C++.~~
  
 ## 😄 Fun Facts
 
-- I'm running custom ROM (CipherOS) as my dialy driver on my potato-droid phone. 📱
 - I sometimes can stay awake for 24 hours. ☕ 👨‍💻
 - ChatGPT told me this can make my PC 10x faster: `sudo dd if=/dev/random of=/dev/sda` 😳
 - Coding is fun until you get an error on the 69th line in 31 lines of code. 🙂
