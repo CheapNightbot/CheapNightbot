@@ -96,7 +96,7 @@
 
 ## 🚀 Future Goals
 
-- [ ] Recreate the "notTaki" website and the "Yutify" project.
+- [x] Recreate the "notTaki" website ~~and the "Yutify" project~~.
 - [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
 - [x] ~~Create a GitHub organization for developing VST plugins using C++.~~
  
