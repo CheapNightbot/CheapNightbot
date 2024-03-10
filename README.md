@@ -2,6 +2,7 @@
 
 <p align='center'>
  <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' />
+ <img src='https://badges.pufler.dev/gists/CheapNightbot' alt='Gists' />
 <!-- <img src='' alt='' /> -->
 </p>
 
@@ -96,7 +97,7 @@
 
 ## 🚀 Future Goals
 
-- [x] Recreate the "notTaki" website ~~and the "Yutify" project~~.
+- [x] ~~Recreate the "notTaki" website.~~
 - [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
 - [x] ~~Create a GitHub organization for developing VST plugins using C++.~~
  
