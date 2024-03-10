@@ -2,7 +2,7 @@
 
 <p align='center'>
  <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' />
- <img src='https://badges.pufler.dev/gists/CheapNightbot' alt='Gists' />
+ <a href="https://gist.github.com/CheapNightbot" target="_blank"> <img src='https://badges.pufler.dev/gists/CheapNightbot' alt='Gists' /> </a>
 <!-- <img src='' alt='' /> -->
 </p>
 
@@ -75,7 +75,7 @@
 
 ## 🚀 My Projects
 
-- [notTaki Website](https://nottaki.pages.dev/) - A static website for the musical artist notTaki. Unfortunately, the project is in a private repository on my old GitHub account, and I lost access to it due to technical issues. The website featured a Mouse trail effect and various other cool stuff. I'm planning to recreate it in the future.
+- [notTaki Website](https://nottaki-4ud.pages.dev/) - A static website for the musical artist notTaki. Unfortunately, the project is in a private repository on my old GitHub account, and I lost access to it due to technical issues. The website featured a Mouse trail effect and various other cool stuff. I'm planning to recreate it in the future.
 
 - [Yutify: YouTube to Spotify](https://github.com/CheapNightbot-zz/Yutify) - Convert YouTube music URLs to Spotify links. Unfortunately this one also isn't finished. There are still some issues, but I don't think of working on it right now.
 
