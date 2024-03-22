@@ -20,7 +20,8 @@
  <summary>📈 Activity Graph</summary>
  <br>
  
- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)
+ |![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)|![WakaTime Coding Activity](https://wakatime.com/share/@018e4f0b-3223-41c9-82c3-6277d82feece/fdeb6dc6-c4f1-46aa-809c-e3d95fa1c5f0.svg)|
+ | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
  
 </details>
 
