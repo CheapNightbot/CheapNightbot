@@ -79,9 +79,8 @@
 
 ## 🚀 My Projects
 
-- [notTaki Website](https://nottaki-4ud.pages.dev/) - A static website for the musical artist notTaki. Unfortunately, the project is in a private repository on my old GitHub account, and I lost access to it due to technical issues. The website featured a Mouse trail effect and various other cool stuff. I'm planning to recreate it in the future.
-
-- [Yutify: YouTube to Spotify](https://github.com/CheapNightbot-zz/Yutify) - Convert YouTube music URLs to Spotify links. Unfortunately this one also isn't finished. There are still some issues, but I don't think of working on it right now.
+|[![notTaki](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=nottaki&theme=dark)](https://github.com/CheapNightbot/notTaki)|[![HubPeeker](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=hubpeeker&theme=dark)](https://github.com/CheapNightbot/HubPeeker)|
+|-|-|
 
 ## 💬 Let's Connect
 
