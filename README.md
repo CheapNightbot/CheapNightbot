@@ -85,7 +85,9 @@
 <details>
  <summary>Archived</summary>
  
- - [Yutify: YouTube to Spotify](https://github.com/CheapNightbot-zz/Yutify) - Convert YouTube music URLs to Spotify links. Unfortunately this one also isn't finished. There are still some issues, but I don't think of working on it right now.
+ - [Media-ShortKeys](https://github.com/CheapNightbot-zz/Media-ShortKeys) - Python application to simulate Media Keys. GUI made with `PySide2` and the main functionality with `keyboard` package.
+ - [Clef](https://github.com/CheapNightbot-zz/Clef) - Simple Discord bot written in Python, made with `Discord.py` to display the current activity of user. It can also show some useful information about the music user listening to on Spotify, such as lyrics.
+ - [Yutify: YouTube to Spotify](https://github.com/CheapNightbot-zz/Yutify) - A (Flask) web application written in Python to get the Spotify music URL of a track from a YouTube URL of any music.
 
 </details>
 
