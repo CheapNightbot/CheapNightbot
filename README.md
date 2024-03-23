@@ -12,17 +12,19 @@
 <details>
  <summary>📊 Stats</summary>
 <br>
- 
+
  |![CheapNightbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)|
  | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ |![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CheapNightbot&theme=tokyonight)|![AA-nime](https://i.ibb.co/VWV744g/deku-java.gif)|
+
 </details>
 
 <details>
  <summary>📈 Activity Graph</summary>
  <br>
  
- |![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)|![WakaTime Coding Activity](https://wakatime.com/share/@018e4f0b-3223-41c9-82c3-6277d82feece/fdeb6dc6-c4f1-46aa-809c-e3d95fa1c5f0.svg)|
- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ |![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)|
+ | --------------------------------------------------------------------------------------------------------------------------------- |
  
 </details>
 
