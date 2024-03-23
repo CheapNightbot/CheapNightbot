@@ -84,6 +84,7 @@
 
 <details>
  <summary>Archived</summary>
+ <br/>
  
  - [Media-ShortKeys](https://github.com/CheapNightbot-zz/Media-ShortKeys) - Python application to simulate Media Keys. GUI made with `PySide2` and the main functionality with `keyboard` package.
  - [Clef](https://github.com/CheapNightbot-zz/Clef) - Simple Discord bot written in Python, made with `Discord.py` to display the current activity of user. It can also show some useful information about the music user listening to on Spotify, such as lyrics.
