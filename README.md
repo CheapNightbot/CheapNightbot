@@ -1,8 +1,9 @@
 <h1 align='center'> Hello World 👋 </h1>
 
 <p align='center'>
- <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' />
- <a href="https://gist.github.com/CheapNightbot" target="_blank"> <img src='https://badges.pufler.dev/gists/CheapNightbot' alt='Gists' /> </a>
+ <a href="https://wakatime.com/@018e4f0b-3223-41c9-82c3-6277d82feece"><img src="https://wakatime.com/badge/user/018e4f0b-3223-41c9-82c3-6277d82feece.svg?style=social" alt="Total time coded since Mar 18 2024" /> </a>
+ <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCheapNightbot%3Faction%3Dfollow"> <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' /> </a>
+ <a href="https://gist.github.com/CheapNightbot"> <img src='https://badges.pufler.dev/gists/CheapNightbot?style=social' alt='Gists' /> </a>
 <!-- <img src='' alt='' /> -->
 </p>
 
