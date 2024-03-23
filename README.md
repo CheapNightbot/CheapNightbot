@@ -82,6 +82,13 @@
 |[![notTaki](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=nottaki&theme=dark)](https://github.com/CheapNightbot/notTaki)|[![HubPeeker](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=hubpeeker&theme=dark)](https://github.com/CheapNightbot/HubPeeker)|
 |-|-|
 
+<details>
+ <summary>Archived</summary>
+ 
+ - [Yutify: YouTube to Spotify](https://github.com/CheapNightbot-zz/Yutify) - Convert YouTube music URLs to Spotify links. Unfortunately this one also isn't finished. There are still some issues, but I don't think of working on it right now.
+
+</details>
+
 ## 💬 Let's Connect
 
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1178070969793904802)
