@@ -3,7 +3,7 @@
 <p align='center'>
  <a href="https://wakatime.com/@018e4f0b-3223-41c9-82c3-6277d82feece"><img src="https://wakatime.com/badge/user/018e4f0b-3223-41c9-82c3-6277d82feece.svg?style=social" alt="Total time coded since Mar 18 2024" /> </a>
  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCheapNightbot%3Faction%3Dfollow"> <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' /> </a>
- <a href="https://gist.github.com/CheapNightbot"> <img src='https://badges.pufler.dev/gists/CheapNightbot?style=social' alt='Gists' /> </a>
+ <a href="https://cheapnightbot.github.io/Nerdsomeness/"> <img src='https://img.shields.io/badge/journal%20&%20blog-white.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDk2IDk2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZS8+PGc+PHBhdGggZD0iTTEyLDcyQTEyLDEyLDAsMSwwLDI0LDg0LDEyLjAxMTksMTIuMDExOSwwLDAsMCwxMiw3MloiLz48cGF0aCBkPSJNMTIsMzZhNiw2LDAsMCwwLDAsMTJBMzYuMDM5MywzNi4wMzkzLDAsMCwxLDQ4LDg0YTYsNiwwLDAsMCwxMiwwQTQ4LjA1MTIsNDguMDUxMiwwLDAsMCwxMiwzNloiLz48cGF0aCBkPSJNMTIsMGE2LDYsMCwwLDAsMCwxMkE3Mi4wNzg4LDcyLjA3ODgsMCwwLDEsODQsODRhNiw2LDAsMCwwLDEyLDBBODQuMDk4MSw4NC4wOTgxLDAsMCwwLDEyLDBaIi8+PC9nPjwvc3ZnPg==' alt='Journal &amp; Blog' /> </a>
 <!-- <img src='' alt='' /> -->
 </p>
 
@@ -107,6 +107,7 @@
 - No IT background, but a dedicated self-learner. 🚀
 - Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
 - Love to read books & sometimes write Diary. 📖
+- I write under the name [Nerdsomeness](https://cheapnightbot.github.io/Nerdsomeness/). 📝
 
 ## 🚀 Future Goals
 
