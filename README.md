@@ -40,8 +40,7 @@
 
 > Alphabetically
 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio%20🔰-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![C++](https://img.shields.io/badge/-C++%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -52,14 +51,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin%20🔰-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Render](https://img.shields.io/badge/Render%20🔰-46E3B7?style=flat&logo=render&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel%20🔰-000000?style=flat&logo=vercel&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -74,8 +70,9 @@
 
 ## 🌱 I'm Currently Learning
 
-- [ ] C++
-- [ ] Kotlin
+- [ ] Computer Science
+- [ ] C
+- [ ] Python
 
 ## 🚀 My Projects
 
@@ -102,7 +99,7 @@
 ## 📚 About Me
 
 - Always passionate to learn more! 🤓
-- Currently exploring Kotlin (Native Android Development) and C++. 🚀
+- Currently learning Computer Science and art of programming. 🚀
 - Linux enthusiast and proud user. 💻
 - No IT background, but a dedicated self-learner. 🚀
 - Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
