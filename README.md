@@ -99,7 +99,7 @@
 ## 📚 About Me
 
 - Always passionate to learn more! 🤓
-- Currently learning Computer Science and art of programming. 🚀
+- Currently exploring Computer Science and art of programming. 🚀
 - Linux enthusiast and proud user. 💻
 - No IT background, but a dedicated self-learner. 🚀
 - Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
