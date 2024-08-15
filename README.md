@@ -76,8 +76,8 @@
 
 ## 🚀 My Projects
 
-|[![notTaki](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=nottaki&theme=dark)](https://github.com/CheapNightbot/notTaki)|[![HubPeeker](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=hubpeeker&theme=dark)](https://github.com/CheapNightbot/HubPeeker)|
-|-|-|
+|[![HubPeeker](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=hubpeeker&theme=dark)](https://github.com/CheapNightbot/HubPeeker)|
+|-|
 
 <details>
  <summary>Archived</summary>
