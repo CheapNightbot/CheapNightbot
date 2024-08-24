@@ -76,8 +76,8 @@
 
 ## 🚀 My Projects
 
-|[![HubPeeker](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=hubpeeker&theme=dark)](https://github.com/CheapNightbot/HubPeeker)|
-|-|
+|[![HubPeeker](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=hubpeeker&theme=dark)](https://github.com/CheapNightbot/HubPeeker)|[![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify)
+|-|-|
 
 <details>
  <summary>Archived</summary>
