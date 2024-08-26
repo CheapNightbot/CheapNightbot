@@ -1,7 +1,6 @@
 <h1 align='center'> Hello World 👋 </h1>
 
 <p align='center'>
- <a href="https://wakatime.com/@018e4f0b-3223-41c9-82c3-6277d82feece"><img src="https://wakatime.com/badge/user/018e4f0b-3223-41c9-82c3-6277d82feece.svg?style=social" alt="Total time coded since Mar 18 2024" /> </a>
  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCheapNightbot%3Faction%3Dfollow"> <img src='https://img.shields.io/github/followers/CheapNightbot.svg?style=social&label=Follow&maxAge=2592000' alt='Followers' /> </a>
  <a href="https://nerdsomeness.pages.dev/"> <img src='https://img.shields.io/badge/journal%20&%20blog-white.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDk2IDk2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZS8+PGc+PHBhdGggZD0iTTEyLDcyQTEyLDEyLDAsMSwwLDI0LDg0LDEyLjAxMTksMTIuMDExOSwwLDAsMCwxMiw3MloiLz48cGF0aCBkPSJNMTIsMzZhNiw2LDAsMCwwLDAsMTJBMzYuMDM5MywzNi4wMzkzLDAsMCwxLDQ4LDg0YTYsNiwwLDAsMCwxMiwwQTQ4LjA1MTIsNDguMDUxMiwwLDAsMCwxMiwzNloiLz48cGF0aCBkPSJNMTIsMGE2LDYsMCwwLDAsMCwxMkE3Mi4wNzg4LDcyLjA3ODgsMCwwLDEsODQsODRhNiw2LDAsMCwwLDEyLDBBODQuMDk4MSw4NC4wOTgxLDAsMCwwLDEyLDBaIi8+PC9nPjwvc3ZnPg==' alt='Journal &amp; Blog' /> </a>
 <!-- <img src='' alt='' /> -->
@@ -15,7 +14,7 @@
 
  |![CheapNightbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)|
  | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
- |![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CheapNightbot&theme=tokyonight)|![AA-nime](https://i.ibb.co/VWV744g/deku-java.gif)|
+ |![O.O`](https://img.hotimg.com/Explore-Power-in-Chains.gif)|![AA-nime](https://i.ibb.co/VWV744g/deku-java.gif)|
 
 </details>
 
@@ -32,7 +31,7 @@
  <summary>📌 Top // Favorite</summary>
  <br/>
  
- [![Skills // Tools](https://skillicons.dev/icons?i=bash,linux,python,replit,vim)](#)
+ [![Skills // Tools](https://skillicons.dev/icons?i=bash,c,linux,python,vim)](#)
  
 </details>
 
@@ -63,10 +62,11 @@
 
 ## 🖥 My Workspace
 
-![OS: Windows 10](https://img.shields.io/badge/Windows_10_+_WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![CPU: Intel Pentium(R) Dual-Core](https://img.shields.io/badge/Intel%20Pentium(R)%20Dual–Core%20E5700-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM: 4GB](https://img.shields.io/badge/RAM-4GB-%230071C5?&style=for-the-badge&logoColor=white)
-![HDD: 500GB](https://img.shields.io/badge/HDD-500GB-%230071C5?&style=for-the-badge&logoColor=white)
+[![OS: Windows 11](https://img.shields.io/badge/Windows_11%20+%20WSL-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
+[![CPU: Intel i5 11th](https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
+[![RAM: 16GB](https://img.shields.io/badge/RAM-16GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
+[![SSD: 500GB](https://img.shields.io/badge/SSD-500GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
+[![IDE: Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#) <!--(´ｰ∀ｰ`)-->
 
 ## 🌱 I'm Currently Learning
 
