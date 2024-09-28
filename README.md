@@ -6,7 +6,7 @@
 <!-- <img src='' alt='' /> -->
 </p>
 
-<p align='center'> Hi, me Cheap Nightbot, a stumid self-taught programmer. (づ￣ ³￣)づ </p>
+<p align='center'> Hi, me Cheap Nightbot, <strike>a stumid self-taught programmer</strike>. (づ￣ ³￣)づ <strong>I took CS50</strong></p>
 
 <details>
  <summary>📊 Stats</summary>
