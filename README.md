@@ -70,9 +70,7 @@
 
 ## 🌱 I'm Currently Learning
 
-- [ ] Computer Science
-- [ ] C
-- [ ] Python
+Well, learning never ends and I want to learn everything  ~!!
 
 ## 🚀 My Projects
 
