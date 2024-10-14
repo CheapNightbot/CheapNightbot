@@ -51,6 +51,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat)
 ![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Render](https://img.shields.io/badge/Render%20🔰-46E3B7?style=flat&logo=render&logoColor=white)
