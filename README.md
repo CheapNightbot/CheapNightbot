@@ -51,7 +51,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat)
 ![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Render](https://img.shields.io/badge/Render%20🔰-46E3B7?style=flat&logo=render&logoColor=white)
@@ -67,7 +67,7 @@
 [![CPU: Intel i5 11th](https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 [![RAM: 16GB](https://img.shields.io/badge/RAM-16GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
 [![SSD: 500GB](https://img.shields.io/badge/SSD-500GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
-[![IDE: Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#) <!--(´ｰ∀ｰ`)-->
+[![IDE: Neovim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#) <!--(´ｰ∀ｰ`)-->
 
 ## 🌱 I'm Currently Learning
 
