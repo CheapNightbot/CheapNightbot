@@ -107,9 +107,9 @@ Well, learning never ends and I want to learn everything  ~!!
 
 ## 🚀 Future Goals
 
-- [x] ~~Recreate the "notTaki" website.~~
 - [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
-- [x] ~~Create a GitHub organization for developing VST plugins using C++.~~
+- [ ] Create a music player (native).
+- [ ] VST Plugin Development.
  
 ## 😄 Fun Facts
 
