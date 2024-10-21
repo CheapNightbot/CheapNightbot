@@ -97,8 +97,8 @@ Well, learning never ends and I want to learn everything  ~!!
 
 ## 📚 About Me
 
+- A boiled potato ~ 😭
 - Always passionate to learn more! 🤓
-- Currently exploring Computer Science and art of programming. 🚀
 - Linux enthusiast and proud user. 💻
 - No IT background, but a dedicated self-learner. 🚀
 - Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
