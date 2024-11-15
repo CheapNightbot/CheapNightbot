@@ -75,8 +75,8 @@ Well, learning never ends and I want to learn everything  ~!!
 
 ## 🚀 My Projects
 
-|[![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify)
-|-|
+|[![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify)|[![calc](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=calc&theme=dark)](https://github.com/CheapNightbot/calc)
+|-|-|
 
 <details>
  <summary>Archived</summary>
