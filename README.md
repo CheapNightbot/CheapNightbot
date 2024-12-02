@@ -2,11 +2,12 @@
 
 <p align='center'>
  <a href="#"> <img src='https://img.shields.io/github/followers/CheapNightbot' alt='Followers' /> </a>
+ &nbsp;
  <a href="https://nerdsomeness.pages.dev/"> <img src='https://img.shields.io/badge/journal%20&%20blog-white.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDk2IDk2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZS8+PGc+PHBhdGggZD0iTTEyLDcyQTEyLDEyLDAsMSwwLDI0LDg0LDEyLjAxMTksMTIuMDExOSwwLDAsMCwxMiw3MloiLz48cGF0aCBkPSJNMTIsMzZhNiw2LDAsMCwwLDAsMTJBMzYuMDM5MywzNi4wMzkzLDAsMCwxLDQ4LDg0YTYsNiwwLDAsMCwxMiwwQTQ4LjA1MTIsNDguMDUxMiwwLDAsMCwxMiwzNloiLz48cGF0aCBkPSJNMTIsMGE2LDYsMCwwLDAsMCwxMkE3Mi4wNzg4LDcyLjA3ODgsMCwwLDEsODQsODRhNiw2LDAsMCwwLDEyLDBBODQuMDk4MSw4NC4wOTgxLDAsMCwwLDEyLDBaIi8+PC9nPjwvc3ZnPg==' alt='Journal &amp; Blog' /> </a>
 <!-- <img src='' alt='' /> -->
 </p>
 
-<p align='center'> Hi, me Cheap Nightbot, <strike>a stumid self-taught programmer</strike>. (づ￣ ³￣)づ <strong>I took CS50</strong></p>
+<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ 
 
 <details>
  <summary>📊 Stats</summary>
@@ -54,8 +55,9 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat)
 ![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Render](https://img.shields.io/badge/Render%20🔰-46E3B7?style=flat&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript%20🔰-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -63,11 +65,13 @@
 
 ## 🖥 My Workspace
 
-[![OS: Windows 11](https://img.shields.io/badge/Windows_11%20+%20WSL-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
+[![OS: Windows 11 + Ubuntu WSL](https://img.shields.io/badge/Windows_11%20+%20Ubuntu%20WSL-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
+[![OS: Debian 12](https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
 [![CPU: Intel i5 11th](https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 [![RAM: 16GB](https://img.shields.io/badge/RAM-16GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
 [![SSD: 500GB](https://img.shields.io/badge/SSD-500GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
-[![IDE: Neovim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#) <!--(´ｰ∀ｰ`)-->
+[![IDE: Neovim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#)
+[![IDE: VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
 ## 🌱 I'm Currently Learning
 
