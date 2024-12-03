@@ -33,7 +33,7 @@
  <summary>📌 Top // Favorite</summary>
  <br/>
  
- [![Skills // Tools](https://skillicons.dev/icons?i=bash,c,linux,python,vim)](#)
+ [![Skills // Tools](https://skillicons.dev/icons?i=bash,c,linux,python,neovim)](#)
  
 </details>
 
@@ -74,10 +74,6 @@
 [![IDE: Neovim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#)
 [![IDE: VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
-## 🌱 I'm Currently Learning
-
-Well, learning never ends and I want to learn everything  ~!!
-
 ## 🚀 My Projects
 
 > Alphabetically
@@ -97,10 +93,10 @@ Well, learning never ends and I want to learn everything  ~!!
 
 ## 💬 Let's Connect
 
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1178070969793904802)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23022179/cheap-nightbot)
-[![XDA-Developers](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/cheap-nightbot.12758942/)
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) Me habe to verify da acc. -->
+[![BlueSky](https://img.shields.io/badge/-@cheapnightbot.bsky.social-3686f7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cheapnightbot.bsky.social)
+[![Discord](https://img.shields.io/badge/-@cheapnightbot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1178070969793904802)
+[![Mastodon](https://img.shields.io/badge/-@CheapNightbot@mastodon.social-6263EE?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@CheapNightbot)
+[![X (formerly Twitter)](https://img.shields.io/badge/-@CheapNightbot-555555?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CheapNightbot)
 
 ## 📚 About Me
 
