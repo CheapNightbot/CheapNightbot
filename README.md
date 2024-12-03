@@ -4,6 +4,7 @@
  <a href="#"> <img src='https://img.shields.io/github/followers/CheapNightbot' alt='Followers' /> </a>
  &nbsp;
  <a href="https://nerdsomeness.pages.dev/"> <img src='https://img.shields.io/badge/journal%20&%20blog-white.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDk2IDk2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZS8+PGc+PHBhdGggZD0iTTEyLDcyQTEyLDEyLDAsMSwwLDI0LDg0LDEyLjAxMTksMTIuMDExOSwwLDAsMCwxMiw3MloiLz48cGF0aCBkPSJNMTIsMzZhNiw2LDAsMCwwLDAsMTJBMzYuMDM5MywzNi4wMzkzLDAsMCwxLDQ4LDg0YTYsNiwwLDAsMCwxMiwwQTQ4LjA1MTIsNDguMDUxMiwwLDAsMCwxMiwzNloiLz48cGF0aCBkPSJNMTIsMGE2LDYsMCwwLDAsMCwxMkE3Mi4wNzg4LDcyLjA3ODgsMCwwLDEsODQsODRhNiw2LDAsMCwwLDEyLDBBODQuMDk4MSw4NC4wOTgxLDAsMCwwLDEyLDBaIi8+PC9nPjwvc3ZnPg==' alt='Journal &amp; Blog' /> </a>
+<br /><a href="https://ko-fi.com/R6R216X1IE"> <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='ko-fi' /> </a>
 <!-- <img src='' alt='' /> -->
 </p>
 
