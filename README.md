@@ -1,5 +1,4 @@
 <h1 align='center'> Hello World 👋 </h1>
-
 <p align='center'>
  <a href="#"> <img src='https://img.shields.io/github/followers/CheapNightbot' alt='Followers' /> </a>
  &nbsp;
@@ -8,7 +7,7 @@
 <!-- <img src='' alt='' /> -->
 </p>
 
-<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ 
+<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ </p>
 
 <details>
  <summary>📊 Stats</summary>
@@ -99,6 +98,8 @@
 [![X (formerly Twitter)](https://img.shields.io/badge/-@CheapNightbot-555555?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CheapNightbot)
 
 ## 📚 About Me
+
+<img align="right" style="float: right;width: 200px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" src="https://github.com/user-attachments/assets/d77b0dba-3099-4ea7-b9e2-5476299c5931" alt="Cheap Nightbot ~ Do you want da hug" />
 
 - A boiled potato ~ 😭
 - Always passionate to learn more! 🤓
