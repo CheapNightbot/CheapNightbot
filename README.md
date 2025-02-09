@@ -65,8 +65,7 @@
 
 ## 🖥 My Workspace
 
-[![OS: Windows 11 + Ubuntu WSL](https://img.shields.io/badge/Windows_11%20+%20Ubuntu%20WSL-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
-[![OS: Debian 12](https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
+[![OS: Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
 [![CPU: Intel i5 11th](https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 [![RAM: 16GB](https://img.shields.io/badge/RAM-16GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
 [![SSD: 500GB](https://img.shields.io/badge/SSD-500GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
