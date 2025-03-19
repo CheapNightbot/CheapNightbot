@@ -78,8 +78,8 @@
 
 | ˗ˏˋ(っ・ᵕ・）っ ♡ | ♡ ⊂(・ヮ・⊂)ˎˊ˗  |
 |---------|---------|
-| [![calc](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=calc&theme=dark)](https://github.com/CheapNightbot/calc) | [![yutipy](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutipy&theme=dark)](https://github.com/CheapNightbot/yutipy) |
-| [![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify) |  |
+| [![calc](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=calc&theme=dark)](https://github.com/CheapNightbot/calc) | [![mouseGesture](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=mouseGesture&theme=dark)](https://github.com/CheapNightbot/mouseGesture) |
+|  [![yutipy](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutipy&theme=dark)](https://github.com/CheapNightbot/yutipy) | [![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify)  |
 
 <details>
  <summary>Archived</summary>
