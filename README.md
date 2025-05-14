@@ -40,6 +40,7 @@
 
 > Alphabetically
 
+![Astro](https://img.shields.io/badge/astro%20🔰-%238f0595.svg?style=flat&logo=astro&logoColor=white)
 ![C](https://img.shields.io/badge/-C%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)
@@ -60,8 +61,7 @@
 ![TypeScript](https://shields.io/badge/TypeScript%20🔰-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Still Learning](https://img.shields.io/badge/🔰-still%20learning-blue)
+![Beginner](https://img.shields.io/badge/🔰-%20beginner-blue)
 
 ## 🖥 My Workspace
 
