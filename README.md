@@ -1,13 +1,11 @@
-<h1 align='center'> Hello World 👋 </h1>
 <p align='center'>
- <a href="#"> <img src='https://img.shields.io/github/followers/CheapNightbot' alt='Followers' /> </a>
- &nbsp;
- <a href="https://nerdsomeness.pages.dev/"> <img src='https://img.shields.io/badge/journal%20&%20blog-white.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDk2IDk2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZS8+PGc+PHBhdGggZD0iTTEyLDcyQTEyLDEyLDAsMSwwLDI0LDg0LDEyLjAxMTksMTIuMDExOSwwLDAsMCwxMiw3MloiLz48cGF0aCBkPSJNMTIsMzZhNiw2LDAsMCwwLDAsMTJBMzYuMDM5MywzNi4wMzkzLDAsMCwxLDQ4LDg0YTYsNiwwLDAsMCwxMiwwQTQ4LjA1MTIsNDguMDUxMiwwLDAsMCwxMiwzNloiLz48cGF0aCBkPSJNMTIsMGE2LDYsMCwwLDAsMCwxMkE3Mi4wNzg4LDcyLjA3ODgsMCwwLDEsODQsODRhNiw2LDAsMCwwLDEyLDBBODQuMDk4MSw4NC4wOTgxLDAsMCwwLDEyLDBaIi8+PC9nPjwvc3ZnPg==' alt='Journal &amp; Blog' /> </a>
-<br /><a href="https://ko-fi.com/R6R216X1IE"> <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='ko-fi' /> </a>
+ <a href="https://ko-fi.com/R6R216X1IE"> <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='ko-fi' /> </a>
 <!-- <img src='' alt='' /> -->
 </p>
 
-<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ </p>
+<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ <br /> <br />
+ <img src='https://github.com/user-attachments/assets/95d52ab9-4cfd-45ff-b107-c10ab6fe08a9' alt="i have no idea wtf i'm doing lol" height="309px" />
+</p>
 
 <details>
  <summary>📊 Stats</summary>
@@ -15,7 +13,6 @@
 
  |![CheapNightbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)|
  | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
- |![O.O`](https://img.hotimg.com/Explore-Power-in-Chains.gif)|![AA-nime](https://i.ibb.co/VWV744g/deku-java.gif)|
 
 </details>
 
@@ -28,44 +25,36 @@
  
 </details>
 
-<details>
- <summary>📌 Top // Favorite</summary>
- <br/>
- 
- [![Skills // Tools](https://skillicons.dev/icons?i=bash,c,linux,python,neovim)](#)
- 
-</details>
-
 ## 🔧 Technologies & Tools // Skills
 
 > Alphabetically
 
-![Astro](https://img.shields.io/badge/astro%20🔰-%238f0595.svg?style=flat&logo=astro&logoColor=white)
-![C](https://img.shields.io/badge/-C%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
-![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat)
-![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript%20🔰-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![Beginner](https://img.shields.io/badge/🔰-%20beginner-blue)
+[![Astro](https://img.shields.io/badge/astro%20🔰-%238f0595.svg?style=flat&logo=astro&logoColor=white)](https://github.com/CheapNightbot/astro-build-a-blog)
+[![C](https://img.shields.io/badge/-C%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/CheapNightbot/calc)
+[![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://github.com/CheapNightbot/Nerdsomeness)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#)
+[![GIMP](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](#)
+[![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat)](#)
+[![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/CheapNightbot/yutipy)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)](https://github.com/CheapNightbot/yutify)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)](#)
+[![TypeScript](https://shields.io/badge/TypeScript%20🔰-3178C6?logo=TypeScript&logoColor=FFF&style=flat)](#)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)](#)
+[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](#)
+[![Beginner](https://img.shields.io/badge/🔰-%20beginner-blue)](#)
 
 ## 🖥 My Workspace
 
 [![OS: Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
+[![OS: Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED.svg?style=for-the-badge&logo=Parrot-Security&logoColor=white)](#)
 [![CPU: Intel i5 11th](https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 [![RAM: 16GB](https://img.shields.io/badge/RAM-16GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
 [![SSD: 500GB](https://img.shields.io/badge/SSD-500GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
