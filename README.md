@@ -3,8 +3,7 @@
 <!-- <img src='' alt='' /> -->
 </p>
 
-<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ <br /> <br />
- <a href="#"><img src='https://github.com/user-attachments/assets/95d52ab9-4cfd-45ff-b107-c10ab6fe08a9' alt="i have no idea wtf i'm doing lol" height="309px" /></a>
+<p align='center'> Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~ <br />
 </p>
 
 <details>
