@@ -1,4 +1,6 @@
+<a href="#">
 <img src="https://github.com/user-attachments/assets/b215715a-62c9-4dd2-a053-9d43d0138a6d" alt="☆⌒(*＾-゜)v" width="1012px" />
+</a>
 
 <p align='center'>
  <a href="https://ko-fi.com/R6R216X1IE"> <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='ko-fi' /> </a>
