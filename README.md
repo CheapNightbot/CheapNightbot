@@ -32,7 +32,7 @@
 
 > Alphabetically
 
-[![Astro](https://img.shields.io/badge/astro%20🔰-%238f0595.svg?style=flat&logo=astro&logoColor=white)](https://github.com/CheapNightbot/astro-build-a-blog)
+[![Astro](https://img.shields.io/badge/astro-%238f0595.svg?style=flat&logo=astro&logoColor=white)](https://github.com/CheapNightbot/homepage)
 [![C](https://img.shields.io/badge/-C%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/CheapNightbot/calc)
 [![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://github.com/CheapNightbot/Nerdsomeness)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
@@ -48,6 +48,7 @@
 [![Penpot](https://img.shields.io/badge/-Penpot%20🔰-ec4e79?style=flat&logo=penpot&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/CheapNightbot/yutipy)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)](https://github.com/CheapNightbot/yutify)
+[![Svelte](https://img.shields.io/badge/Svelte%20🔰-FF3E00.svg?style=flat&logo=Svelte&logoColor=white)](https://github.com/CheapNightbot/soulofswords/tree/migrate-to-sveltekit)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)](#)
 [![TypeScript](https://shields.io/badge/TypeScript%20🔰-3178C6?logo=TypeScript&logoColor=FFF&style=flat)](#)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)](#)
