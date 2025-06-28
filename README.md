@@ -100,7 +100,6 @@
 - No IT background, but a dedicated self-learner. 🚀
 - Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
 - Love to read books & sometimes write Diary. 📖
-- I write under the name [Nerdsomeness](https://nerdsomeness.pages.dev/). 📝
 
 ## 🚀 Future Goals
 
