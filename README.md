@@ -103,7 +103,9 @@
 
 ### 🎧 Wat me listening ?
 
-<img src='https://yutify.cheapnightbot.me/api/me?username=cheapnightbot&svg' alt='see what me listening to...' width="300" height="469" />
+<a href="#">
+ <img src='https://yutify.cheapnightbot.me/api/me?username=cheapnightbot&svg' alt='see what me listening to...' width="300" height="469" />
+</a>
 
 ## 🚀 Future Goals
 
