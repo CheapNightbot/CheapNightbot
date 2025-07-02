@@ -101,10 +101,6 @@
 - Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
 - Love to read books & sometimes write Diary. 📖
 
-### 🎧 Wat me listening ?
-
-<img src='https://yutify.cheapnightbot.me/api/me?username=cheapnightbot&svg' alt='see what me listening to...' width="300" height="469" />
-
 ## 🚀 Future Goals
 
 - [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
