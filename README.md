@@ -58,7 +58,7 @@
 ## 🖥 My Workspace
 
 [![OS: Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](#)
-[![OS: Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED.svg?style=for-the-badge&logo=Parrot-Security&logoColor=white)](#)
+[![OS: Fedora 42](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](#)
 [![CPU: Intel i5 11th](https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 [![RAM: 16GB](https://img.shields.io/badge/RAM-16GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
 [![SSD: 500GB](https://img.shields.io/badge/SSD-500GB-%230071C5?&style=for-the-badge&logoColor=white)](#)
