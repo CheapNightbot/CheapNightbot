@@ -32,7 +32,7 @@
 
 > Alphabetically
 
-[![Astro](https://img.shields.io/badge/astro-%238f0595.svg?style=flat&logo=astro&logoColor=white)](https://github.com/CheapNightbot/homepage)
+[![Astro](https://img.shields.io/badge/astro-%238f0595.svg?style=flat&logo=astro&logoColor=white)](https://github.com/CheapNightbot/Blog)
 [![C](https://img.shields.io/badge/-C%20🔰-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/CheapNightbot/calc)
 [![C#](https://img.shields.io/badge/C%23%20🔰-239120?style=flat&logo=csharp&logoColor=white)](https://github.com/CheapNightbot/dotnet-10-playground)
 [![CloudFlare](https://img.shields.io/badge/Cloudflare%20🔰-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://github.com/CheapNightbot/Nerdsomeness)
