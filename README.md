@@ -67,14 +67,6 @@
 [![IDE: Neovim](https://img.shields.io/badge/NEOVIM-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#)
 [![IDE: VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
-## 🚀 My Projects
-
-> Alphabetically
-
-| ˗ˏˋ(っ・ᵕ・）っ ♡ | ♡ ⊂(・ヮ・⊂)ˎˊ˗  |
-|---------|---------|
-|  [![yutipy](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutipy&theme=dark)](https://github.com/CheapNightbot/yutipy) | [![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify)  |
-
 ## 💬 Let's Connect
 
 [![BlueSky](https://img.shields.io/badge/-@cheapnightbot.bsky.social-3686f7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cheapnightbot.bsky.social)
