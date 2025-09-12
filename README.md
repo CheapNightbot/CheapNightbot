@@ -75,16 +75,6 @@
 |---------|---------|
 |  [![yutipy](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutipy&theme=dark)](https://github.com/CheapNightbot/yutipy) | [![yutify](https://github-readme-stats.vercel.app/api/pin/?username=cheapnightbot&repo=yutify&theme=dark)](https://github.com/CheapNightbot/yutify)  |
 
-<details>
- <summary>Archived</summary>
- <br/>
- 
- - [Media-ShortKeys](https://github.com/CheapNightbot-zz/Media-ShortKeys) - Python application to simulate Media Keys. GUI made with `PySide2` and the main functionality with `keyboard` package.
- - [Clef](https://github.com/CheapNightbot-zz/Clef) - Simple Discord bot written in Python, made with `Discord.py` to display the current activity of user. It can also show some useful information about the music user listening to on Spotify, such as lyrics.
- - [Yutify: YouTube to Spotify](https://github.com/CheapNightbot-zz/Yutify) - A (Flask) web application written in Python to get the Spotify music URL of a track from a YouTube URL of any music.
-
-</details>
-
 ## 💬 Let's Connect
 
 [![BlueSky](https://img.shields.io/badge/-@cheapnightbot.bsky.social-3686f7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cheapnightbot.bsky.social)
