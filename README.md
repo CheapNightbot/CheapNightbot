@@ -69,7 +69,7 @@
 
 ## 💬 Let's Connect
 
-[![BlueSky](https://img.shields.io/badge/-@cheapnightbot.bsky.social-3686f7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cheapnightbot.bsky.social)
+[![BlueSky](https://img.shields.io/badge/-@cheapnightbot.me-3686f7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cheapnightbot.me)
 [![Discord](https://img.shields.io/badge/-@cheapnightbot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1178070969793904802)
 [![Mastodon](https://img.shields.io/badge/-@CheapNightbot@mastodon.social-6263EE?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@CheapNightbot)
 [![X (formerly Twitter)](https://img.shields.io/badge/-@CheapNightbot-555555?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CheapNightbot)
