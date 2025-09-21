@@ -70,7 +70,7 @@
 ## 💬 Let's Connect
 
 [![BlueSky](https://img.shields.io/badge/-@cheapnightbot.me-3686f7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cheapnightbot.me)
-[![Discord](https://img.shields.io/badge/-@cheapnightbot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1178070969793904802)
+[![Discord](https://img.shields.io/badge/-@cheapnightbot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Mastodon](https://img.shields.io/badge/-@CheapNightbot@mastodon.social-6263EE?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@CheapNightbot)
 [![X (formerly Twitter)](https://img.shields.io/badge/-@CheapNightbot-555555?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CheapNightbot)
 
@@ -79,24 +79,7 @@
 <img align="right" style="float: right;width: 200px;margin: 0 0 20px 20px;border: 1px solid #d9d9d9;border-radius: 4px;" src="https://github.com/user-attachments/assets/d77b0dba-3099-4ea7-b9e2-5476299c5931" alt="Cheap Nightbot ~ Do you want da hug" />
 
 - A boiled potato ~ 😭
-- Always passionate to learn more! 🤓
-- Linux enthusiast and proud user. 💻
-- No IT background, but a dedicated self-learner. 🚀
-- Lost access to the [old GitHub account](https://github.com/CheapNightbot-zz/), starting fresh! 🔒
-- Love to read books & sometimes write Diary. 📖
 
-### 🎧 Wat me listening ?
-
-<a href="#">
- <img src='https://yutify.cheapnightbot.me/api/me?username=cheapnightbot&svg' alt='see what me listening to...' width="300" height="469" />
-</a>
-
-## 🚀 Future Goals
-
-- [ ] Build a personal website/portfolio inspired by FydeOS ('s website).
-- [ ] Create a music player (native).
-- [ ] VST Plugin Development.
- 
 ## 😄 Fun Facts
 
 - I sometimes can stay awake for 24 hours. ☕ 👨‍💻
