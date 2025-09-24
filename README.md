@@ -1,32 +1,41 @@
 <a href="#">
-<img src="https://github.com/user-attachments/assets/b215715a-62c9-4dd2-a053-9d43d0138a6d" alt="☆⌒(*＾-゜)v" width="1012px" />
+  <img align="right" src="https://github.com/user-attachments/assets/bc3617cf-2e94-45c4-aa45-020584dd4f63" alt="Anime Banner" width="300px" style="border-radius:16px; float: right; margin-left: 16px; margin-bottom: 16px;" />
 </a>
 
-<p align='center'>
- Hi, me Cheap Nightbot (づ￣ ³￣)づ , a boiled potato ~
- <br /><br />
- <a href="https://ko-fi.com/R6R216X1IE"> <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='ko-fi' /> </a>
- <br />
- <a href="https://bsky.app/profile/cheapnightbot.me"> <img src='https://img.shields.io/badge/-@cheapnightbot.me-3686f7?style=flat&logo=bluesky&logoColor=white' alt='BlueSky' /> </a>
- <a href="#"> <img src='https://img.shields.io/badge/-@cheapnightbot-7289DA?style=flat&logo=discord&logoColor=white' alt='Discord' /> </a>
- <a href="https://mastodon.social/@CheapNightbot"> <img src='https://img.shields.io/badge/-@CheapNightbot@mastodon.social-6263EE?style=flat&logo=mastodon&logoColor=white' alt='Mastodon' /> </a>
- <a href="https://x.com/CheapNightbot"> <img src='https://img.shields.io/badge/-@CheapNightbot-555555?style=flat&logo=x&logoColor=white' alt='X (formerly Twitter' /> </a>
+<p align="center">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=CheapNightbot&style=for-the-badge&color=FFD1DC" alt="Profile views"/></a>
 </p>
 
-<details>
- <summary>📊 Stats</summary>
-<br>
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_rank=false&icon_color=FFD1DC&title_color=FFD1DC&cache_seconds=3600" alt="CheapNightbot's GitHub Stats" width="375px"/></a>
+  <br>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CheapNightbot&theme=tokyonight&date_format=j%20M%5B%20Y%5D&sideNums=FFD1DC&currStreakLabel=FFD1DC" alt="CheapNightbot's GitHub Streak" width="375px"/></a>
+  <br>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheapNightbot&theme=tokyonight" alt="CheapNightbot's Profile Details" width="375px"/></a>
+</p>
 
- |![CheapNightbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheapNightbot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)|
- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<p align="center">🌸 • ━━━━ • 🌸</p>
 
-</details>
-
-<details>
- <summary>📈 Activity Graph</summary>
+<p align="center">
+  <a href="https://cheapnightbot.me">
+    <img src="https://img.shields.io/badge/homepage-FFD1DC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://x.com/CheapNightbot">
+    <img src="https://img.shields.io/badge/-X%20%2F%20Twitter-555555?logo=x&logoColor=white&style=for-the-badge" alt="X (formerly Twitter)"/>
+  </a>
  <br>
- 
- |![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CheapNightbot&theme=tokyo-night)|
- | --------------------------------------------------------------------------------------------------------------------------------- |
- 
-</details>
+  <a href="https://bsky.app/profile/cheapnightbot.me">
+    <img src="https://img.shields.io/badge/Bluesky-5A9EFF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+  </a>
+  <a href="https://mastodon.social/@CheapNightbot">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
+  </a>
+</p>
+
+<p align="center"><sub>Feel free to contact or be friends? (≧◡≦) ♡</sub></p>
+
+<p align="center">🌸 • ━━━━ • 🌸</p>
+
+<p align="center">
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=CheapNightbot&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophy"/></a>
+</p>
