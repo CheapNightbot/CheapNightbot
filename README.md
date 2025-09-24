@@ -1,6 +1,7 @@
 <a href="#">
-  <img align="right" src="https://github.com/user-attachments/assets/bc3617cf-2e94-45c4-aa45-020584dd4f63" alt="Anime Banner" width="300px" style="border-radius:16px; float: right; margin-left: 16px; margin-bottom: 16px;" />
+  <img align="right" src="https://github.com/user-attachments/assets/aa80cc0e-34c3-4e12-bd58-7e10392dac92" alt="Anime Banner" width="300px" height="650px" />
 </a>
+<!-- <img width="1080" height="2340" alt="banner" src="https://github.com/user-attachments/assets/aa80cc0e-34c3-4e12-bd58-7e10392dac92" /> -->
 
 <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=CheapNightbot&style=for-the-badge&color=FFD1DC" alt="Profile views"/></a>
