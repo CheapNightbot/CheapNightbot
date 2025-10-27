@@ -8,11 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_rank=false&icon_color=FFD1DC&title_color=FFD1DC&cache_seconds=3600" alt="CheapNightbot's GitHub Stats" width="375px"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_rank=false&icon_color=FFD1DC&title_color=FFD1DC">
+    <img src="https://github-readme-stats.vercel.app/api?username=CheapNightbot&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_rank=false&icon_color=FFD1DC&title_color=FFD1DC&cache_seconds=3600" alt="CheapNightbot's GitHub Stats" width="375px"/>
+  </a>
   <br>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CheapNightbot&theme=tokyonight&date_format=j%20M%5B%20Y%5D&sideNums=FFD1DC&currStreakLabel=FFD1DC" alt="CheapNightbot's GitHub Streak" width="375px"/></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=CheapNightbot&theme=tokyonight&date_format=j%20M%5B%20Y%5D&sideNums=FFD1DC&currStreakLabel=FFD1DC">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheapNightbot&theme=tokyonight&date_format=j%20M%5B%20Y%5D&sideNums=FFD1DC&currStreakLabel=FFD1DC" alt="CheapNightbot's GitHub Streak" width="375px"/>
+  </a>
   <br>
-  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheapNightbot&theme=tokyonight" alt="CheapNightbot's Profile Details" width="375px"/></a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheapNightbot&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheapNightbot&theme=tokyonight" alt="CheapNightbot's Profile Details" width="375px"/>
+  </a>
 </p>
 
 <p align="center">🌸 • ━━━━ • 🌸</p>
@@ -38,5 +44,7 @@
 <p align="center">🌸 • ━━━━ • 🌸</p>
 
 <p align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=CheapNightbot&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophy"/></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=CheapNightbot&theme=tokyonight&no-frame=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=CheapNightbot&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophy"/>
+  </a>
 </p>
