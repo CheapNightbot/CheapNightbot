@@ -21,7 +21,7 @@
 <p align="center">🌸 • ━━━━ • 🌸</p>
 
 <p align="center">
-  <a href="https://cheapnightbot.me">
+  <a href="https://cheapnightbot.github.io/">
     <img src="https://img.shields.io/badge/homepage-FFD1DC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://x.com/CheapNightbot">
@@ -30,9 +30,6 @@
  <br>
   <a href="https://bsky.app/profile/cheapnightbot.me">
     <img src="https://img.shields.io/badge/Bluesky-5A9EFF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-  </a>
-  <a href="https://mastodon.social/@CheapNightbot">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
   </a>
 </p>
 
