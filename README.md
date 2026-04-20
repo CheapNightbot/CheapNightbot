@@ -1,4 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/aa80cc0e-34c3-4e12-bd58-7e10392dac92" alt="Anime Banner" width="300px" height="650px" />
-  <img align="left" src="https://yourinsights.vercel.app/api/insight?username=CheapNightbot&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="500px" height="500px" />
+<img align="right" src="https://github.com/user-attachments/assets/aa80cc0e-34c3-4e12-bd58-7e10392dac92" alt="Anime Banner" width="310px" height="660px" />
+<div align="left">
+  <img src="https://yourinsights.vercel.app/api/insight?username=CheapNightbot&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="400px" height="400px" />
+  <img src="https://custom-readme.vercel.app/api/profile-card?greeting=%E7%8C%AB%EF%BD%9E&theme=dark&name=%E3%83%9D%E3%83%86%E3%83%88+%5E.+.%5E%E2%82%8E%E0%B8%85&bio=a+boiled+potato+%21+QwQ&skills=ableton%2C+appwrite%2C+arch%2C+astro%2C+bash%2C+blender%2C+bootstrap%2C+c%2C+cloudflare%2C+css%2C+deno%2C+django%2C+fastapi%2C+flask%2C+git%2C+github%2C+godot%2C+gtk%2C+html%2C+js%2C+linux%2C+neovim%2C+nodejs%2C+obsidian%2C+py%2C+react%2C+svelte%2C+tailwind%2C+ts%2C+vercel%2C+vite%2C+workers&quote=when+you+need+something%2C+you+find+it+or+you+create+it.&format=svg" alt="Profile Card"  width="400px" height="400px" />
 </div>
